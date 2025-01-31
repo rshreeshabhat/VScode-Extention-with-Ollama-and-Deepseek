@@ -12,7 +12,6 @@
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
-    
     "commands": [
       {
         "command": "deepseeker.helloWorld",
